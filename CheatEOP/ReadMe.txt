@@ -4,6 +4,7 @@ Cách sử dụng :
    Nếu là bài chọn một trong các từ thì chọn nút Select Vocabulary
 
    Nếu là các bài phải điền từ thì chọn lần lượt Input , Copy và Parse (Bấm từ từ để nó còn load)
+   Nếu là các bài chọn câu hoặc từ bằng dấu tích thì chọn lần lượt Chọn đáp án , Copy và Parse trong phần chọn từ
 P/S: Nếu bạn ngu và không muốn trượt tiếng anh thì đừng nên dùng extention này :v
 
 Developed by Hiển Lếch
