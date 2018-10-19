@@ -1,0 +1,18 @@
+{
+  "name": "EOP Cheater",
+  "description": "Tự Động Làm Bài Online Eop.edu.vn",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+      "http://eop.edu.vn/*"
+  ],
+    /*"content_scripts": [{
+        "matches": ["<all_urls>"],
+        "all_frames": true,
+        "js":      ["cheat.js"]
+    }],*/
+  "manifest_version": 2
+}
