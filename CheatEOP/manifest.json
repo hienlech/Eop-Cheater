@@ -1,9 +1,9 @@
 {
   "name": "EOP Cheater",
   "description": "Tự Động Làm Bài Online Eop.edu.vn",
-  "version": "2.0",
+  "version": "1.0",
   "browser_action": {
-    "default_icon": "icon.png",
+    "default_icon": "eop.png",
     "default_popup": "popup.html"
   },
   "permissions": [
